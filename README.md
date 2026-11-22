@@ -2,6 +2,10 @@
 
 > Alerts with a camera picture (doorbell) keep Tessera's own card, which makes room for the picture.
 
+![A fire alarm on a 10.1 inch screen: Tessera's alert card on the left, the same alert with Fullscreen alerts on the right](docs/preview.png)
+
+*A fire alarm with a 250-character pager text on a 10.1″ Guition JC8012P4A1 (1280 × 800). Drawn from the plugin's layout with the screen's fonts.*
+
 Tessera's alert card has the same size in millimetres on every screen: on a 2.8 or 4 inch screen it fills the glass,
 on a 7 or 10 inch screen it is a small card in the middle. With this plugin every alert fills the whole screen,
 whatever its size: the icon in a round disc, a large title and the text as one group in the middle, the button (or

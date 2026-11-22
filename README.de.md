@@ -2,6 +2,10 @@
 
 > Benachrichtigungen mit Kamerabild (Türklingel) behalten die normale Karte von Tessera, die Platz für das Bild macht.
 
+![Ein Feuerwehralarm auf einem 10,1-Zoll-Bildschirm: links die normale Alert-Karte von Tessera, rechts derselbe Alarm mit Vollbild-Benachrichtigungen](docs/preview.png)
+
+*Ein Feuerwehralarm mit 250 Zeichen Pager-Text auf einem 10,1″ Guition JC8012P4A1 (1280 × 800). Gezeichnet aus dem Layout des Plugins mit den Schriften des Bildschirms.*
+
 Die Alert-Karte von Tessera ist auf jedem Bildschirm gleich gross in Millimetern: Auf einem 2,8- oder 4-Zoll-Display
 füllt sie den Bildschirm, auf einem 7- oder 10-Zoll-Display ist sie eine kleine Karte in der Mitte. Mit diesem Plugin
 füllt jede Benachrichtigung den ganzen Bildschirm, egal wie gross er ist: das Icon in einer runden Scheibe, ein grosser
